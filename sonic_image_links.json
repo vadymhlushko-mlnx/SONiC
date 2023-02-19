@@ -73,10 +73,10 @@
   "date": "2023-02-18T08:00:29.3211801Z"
  },
 "sonic-nephos.bin": {
-  "url": "null",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=220812&view=results",
-  "build": "220812",
-  "date": "2023-02-19T03:18:39.9031349Z"
+  "url": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+  "build": "null",
+  "date": ""
  }
 },
 "202106": {
@@ -153,10 +153,10 @@
   "date": "2023-02-18T08:00:15.2107007Z"
  },
 "sonic-nephos.bin": {
-  "url": "null",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=220776&view=results",
-  "build": "220776",
-  "date": "2023-02-19T01:00:11.3568967Z"
+  "url": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+  "build": "null",
+  "date": ""
  }
 },
 "202012": {
@@ -233,10 +233,10 @@
   "date": "2023-02-18T08:00:12.616743Z"
  },
 "sonic-nephos.bin": {
-  "url": "null",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=220774&view=results",
-  "build": "220774",
-  "date": "2023-02-19T01:00:08.7785056Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIyMDUwOC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5uZXBob3M1/content?format=file&subpath=/target/sonic-nephos.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=220508&view=results",
+  "build": "220508",
+  "date": "2023-02-18T08:00:28.7784226Z"
  }
 },
 "201911": {
@@ -313,10 +313,10 @@
   "date": ""
  },
 "sonic-nephos.bin": {
-  "url": "null",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=220556&view=results",
-  "build": "220556",
-  "date": "2023-02-18T09:00:13.9650307Z"
+  "url": "",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+  "build": "null",
+  "date": ""
  }
 },
 "201811": {
