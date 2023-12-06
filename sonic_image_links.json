@@ -13,10 +13,10 @@
   "date": "2023-12-05T08:00:30.1029861Z"
  },
 "sonic-mellanox.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNjQ2Ni9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tZWxsYW5veA2/content?format=file&subpath=/target/sonic-mellanox.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=426466&view=results",
-  "build": "426466",
-  "date": "2023-12-05T08:00:31.1146684Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNzI2Ny9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tZWxsYW5veA2/content?format=file&subpath=/target/sonic-mellanox.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=427267&view=results",
+  "build": "427267",
+  "date": "2023-12-06T08:00:36.9386151Z"
  },
 "sonic-vs.img.gz": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNjQ2OC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS52cw2/content?format=file&subpath=/target/sonic-vs.img.gz",
@@ -67,10 +67,10 @@
   "date": "2023-12-06T08:00:32.094379Z"
  },
 "sonic-marvell-armhf.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNjQ2MS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=426461&view=results",
-  "build": "426461",
-  "date": "2023-12-05T08:00:30.2904844Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNzI3OC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=427278&view=results",
+  "build": "427278",
+  "date": "2023-12-06T08:00:43.0446239Z"
  },
 "sonic-nephos.bin": {
   "url": "",
@@ -209,10 +209,10 @@
   "date": "2023-12-06T08:00:15.0464233Z"
  },
 "sonic-centec-arm64.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNjQxOS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=426419&view=results",
-  "build": "426419",
-  "date": "2023-12-05T08:00:16.9827791Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNzE4My9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=427183&view=results",
+  "build": "427183",
+  "date": "2023-12-06T08:00:03.0623937Z"
  },
 "sonic-generic.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNzE4MS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5nZW5lcmlj0/content?format=file&subpath=/target/sonic-generic.bin",
@@ -227,10 +227,10 @@
   "date": "2023-12-06T08:00:02.9998827Z"
  },
 "sonic-marvell-armhf.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNjM4MC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=426380&view=results",
-  "build": "426380",
-  "date": "2023-12-05T08:00:04.181023Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNzIwOS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tYXJ2ZWxsLWFybWhm0/content?format=file&subpath=/target/sonic-marvell-armhf.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=427209&view=results",
+  "build": "427209",
+  "date": "2023-12-06T08:00:21.1227653Z"
  },
 "sonic-nephos.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzQyNzIxMC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5uZXBob3M1/content?format=file&subpath=/target/sonic-nephos.bin",
