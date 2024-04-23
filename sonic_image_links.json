@@ -81,16 +81,16 @@
 },
 "202106": {
 "sonic-broadcom.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyODc1Mi9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-broadcom.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=528752&view=results",
-  "build": "528752",
-  "date": "2024-04-22T08:00:33.7874248Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyOTYyMC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-broadcom.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=529620&view=results",
+  "build": "529620",
+  "date": "2024-04-23T08:00:07.5209358Z"
  },
 "sonic-aboot-broadcom.swi": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyODc1Mi9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-aboot-broadcom.swi",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=528752&view=results",
-  "build": "528752",
-  "date": "2024-04-22T08:00:33.7874248Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyOTYyMC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-aboot-broadcom.swi",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=529620&view=results",
+  "build": "529620",
+  "date": "2024-04-23T08:00:07.5209358Z"
  },
 "sonic-mellanox.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyOTYxOS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tZWxsYW5veA2/content?format=file&subpath=/target/sonic-mellanox.bin",
@@ -209,10 +209,10 @@
   "date": "2024-04-23T08:00:12.6520906Z"
  },
 "sonic-centec-arm64.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyODc0My9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=528743&view=results",
-  "build": "528743",
-  "date": "2024-04-22T08:00:30.58426Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyOTY2MC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWMtYXJtNjQ1/content?format=file&subpath=/target/sonic-centec-arm64.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=529660&view=results",
+  "build": "529660",
+  "date": "2024-04-23T08:00:26.0908663Z"
  },
 "sonic-generic.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzUyOTY1OC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5nZW5lcmlj0/content?format=file&subpath=/target/sonic-generic.bin",
